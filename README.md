@@ -144,48 +144,6 @@ USB-inspector/
 
 ---
 
-# 💡 Questions I Explored During Development
-
-## "Did I really program hardware?"
-
-Not directly.
-
-This project does not control the USB chip or communicate with hardware protocols directly.
-
-Instead, it communicates with hardware through the operating system.
-
-The learning path:
-
-```
-USB Device
-    ↓
-Windows Driver
-    ↓
-Windows API
-    ↓
-Node.js
-    ↓
-Electron
-```
-
----
-
-## "Can this work with a Zyxel USB dongle?"
-
-Not with the current version.
-
-The current implementation focuses on USB storage devices.
-
-Network adapters and wireless dongles require another approach:
-
-- USB descriptors
-- VID/PID detection
-- Device drivers
-- libusb
-- Windows PnP APIs
-
----
-
 # 🚀 Future Roadmap
 
 ## Hardware Level Improvements
