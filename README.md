@@ -175,3 +175,16 @@ Through this project I learned:
 - Why native Node packages sometimes require C++ compilation
 - How software interacts with physical devices
 
+
+https://github.com/user-attachments/assets/c074b86b-23d9-4c60-ab7b-d5c4311ac6f4
+
+
+
+https://github.com/user-attachments/assets/a50eb1d3-3648-418e-92e2-a6991798cf22
+
+
+
+https://github.com/user-attachments/assets/675d3d71-1517-4503-b23e-115284880ce3
+
+
+
