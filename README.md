@@ -23,7 +23,7 @@ Node.js
         ↓
 Electron Desktop Application
 ```
-https://github.com/user-attachments/assets/c074b86b-23d9-4c60-ab7b-d5c4311ac6f4
+
 ---
 
 # 🧠 What I Learned
@@ -177,7 +177,7 @@ Through this project I learned:
 
 
 
-
+https://github.com/user-attachments/assets/c074b86b-23d9-4c60-ab7b-d5c4311ac6f4
 
 
 
